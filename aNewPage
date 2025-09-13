@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SolFort - Fortress of Solana</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 50px;">
+  <img src="https://i.imgur.com/Mmd0p3o.png" alt="SolFort Logo" width="200">
+  <h1>SolFort - Fortress of Solana</h1>
+  <p>
+    SolFort is a community-driven token built on the Solana blockchain.<br>
+    It powers governance, community events, and future DeFi/NFT integrations.
+  </p>
+  <h2>Join the Community</h2>
+  <p>
+    <a href="https://twitter.com/solfort">Twitter</a> | 
+    <a href="https://t.me/solfort">Telegram</a>
+  </p>
+</body>
+</html>
